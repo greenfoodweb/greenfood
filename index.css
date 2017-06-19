@@ -89,6 +89,18 @@ a{
     border-bottom:2px dotted black;
     padding-bottom:10px;
 }
+#section .SP{
+    margin-top:-6px;
+}
+#section .SP p{
+    font-family:'NanumGothic',serif;
+    font-size:1em;
+    display:inline-block;
+    font-weight:700;
+    width:240px;
+    text-align:center;
+    color:#4b4b4b;
+}
 
 
 
