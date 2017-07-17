@@ -114,7 +114,7 @@ a{
 }
 #footer{
     width:980px;
-    height:180px;
+    height:200px;
     color:#ffffff;
     margin:40px auto 0 auto;
     padding:0 0 20px 0;
@@ -129,15 +129,18 @@ a{
     display:inline;
 }
 #footer dl{
-    margin:0 auto;
+    margin:-10px auto 0 auto;
     text-align: center;
-    line-height: 160%;
+    line-height: 130%;
+    font-family: 'Nanum Pen Script', serif;
 }
 #footer dt{
     text-decoration: underline;
+    font-size: 1.3em;
 }
 #footer dd{
     margin-left: -1em;
+    font-size:1.6em;
 }
 #footer h4{
     display:inline;
