@@ -87,13 +87,13 @@ a{
 #section h1{
     color:#ffffff;
     font-family: 'Nanum Gothic', serif;
-    padding:40px 40px 60px 40px;
+    padding:40px 40px 80px 40px;
     border-right:2px solid gray;
     display:inline-block;
     margin-top:-100px;
 }
 #section>div{
-    margin:-170px 290px;
+    margin:-190px 290px;
 }
 #section div p{
     font-family: 'Nanum Gothic', serif;
@@ -101,11 +101,11 @@ a{
 }
 #section .phone{
     width:600px;
-    margin-top:44px;
+    margin-top:45px;
 }
 #section .phone p{
-    margin-left: 220px;
-    margin-bottom:36px;
+    margin-left: 240px;
+    margin-bottom:24px;
 }
 
 
@@ -139,7 +139,7 @@ a{
     font-family: 'Nanum Pen Script', serif;
     font-size:1.4em;
     margin-left:40px;
-    margin-right:20px;
+    margin-right:60px;
 }
 #footer>div dl{
     margin-top:0px;
