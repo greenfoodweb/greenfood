@@ -126,19 +126,20 @@ a{
 }
 #footer img{
     float:left;
+    margin-left:20px;
 }
 #footer>div{
     display:inline-block;
     font-family: 'Nanum Pen Script', serif;
     font-size:1.4em;
     margin-left:40px;
-    margin-right:80px;
+    margin-right:20px;
 }
 #footer>div dl{
     margin-top:0px;
 }
 #footer>div dl dt{
-    font-weight:700;
+    font-weight:900;
     display:inline;
 }
 #footer>div dl dd{
