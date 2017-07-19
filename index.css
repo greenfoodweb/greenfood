@@ -148,7 +148,8 @@ a{
     margin-left:2px;
 }
 #footer h4{
-    margin-left:620px;
+    text-align:right;
+    margin-right:2%;
     font-weight:200;
     margin-top:-12px;
 }

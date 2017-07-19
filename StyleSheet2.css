@@ -54,7 +54,7 @@ a{
 #header .nav{
     font-size:26px;
     font-weight:500;
-    margin-left:34%;
+    margin-left:20%;
 }
 #header .nav a{
     color:darkgray;
@@ -64,6 +64,7 @@ a{
 }
 #header .nav ul li{
     font-family: 'Nanum Pen Script', serif;
+    font-size:1.6em;
     margin:0;
     padding:0;
 }
@@ -145,7 +146,8 @@ a{
     margin-left:2px;
 }
 #footer h4{
-    margin-left:620px;
+    text-align:right;
+    margin-right:2%;
     font-weight:200;
     margin-top:-12px;
 }
