@@ -35,12 +35,16 @@ a{
     z-index:10;
     border-bottom:4px solid #206013;
 }
+#header .logo_img{
+    float:left;
+    margin-top:-14px;
+}
 #header .logo{
     float:left;
 }
 #header .logo h1{
     width:292px;
-    margin-top:0px;
+    margin-top:4px;
     font-family: 'Hanna', serif;
     font-size:2.2em;
     font-weight:700;
@@ -52,7 +56,7 @@ a{
     메뉴바
 */
 #header .nav{
-    font-size:26px;
+    font-size:22px;
     font-weight:500;
     margin-left:20%;
 }
@@ -130,14 +134,20 @@ a{
     margin-left:20px;
 }
 #footer>div{
-    display:inline-block;
+    display:inline-inline-block;
+    position:relative;
     font-family: 'Nanum Pen Script', serif;
     font-size:1.4em;
-    margin-left:40px;
-    margin-right:60px;
+}
+#footer .footer_1{
+    margin-left:200px;
+}
+#footer .footer_2{
+    margin-top:-100px;
+    margin-left:500px;
 }
 #footer>div dl{
-    margin-top:0px;
+    display:inline;
 }
 #footer>div dl dt{
     font-weight:900;
@@ -149,7 +159,7 @@ a{
 }
 #footer h4{
     text-align:right;
-    margin-right:2%;
+    margin-right:4%;
     font-weight:200;
-    margin-top:-12px;
+    margin-top:2px;
 }
